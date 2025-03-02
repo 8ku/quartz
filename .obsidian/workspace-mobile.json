@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/Novels/Novels.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -155,10 +155,10 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
-    "source/content/Novels/index.md",
-    "source/content/Novels/Novels.md",
     "source/content/index.md",
+    "source/content/Novels/Novels.md",
     "source/content/Novels/1984.md",
+    "source/content/Novels/index.md",
     "README.md",
     "LICENSE",
     "source/quartz/i18n/locales/de-DE.ts",

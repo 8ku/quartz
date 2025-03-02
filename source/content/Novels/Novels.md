@@ -1,5 +1,8 @@
 ---
-tags: MOCs
+tags: []
 ---
-```folder-index-content
-```
+%% Begin Waypoint %%
+- [[1984]]
+- [[Novels]]
+
+%% End Waypoint %%
