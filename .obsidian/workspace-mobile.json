@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "7d9afb872c0d3fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b711c8beddd2cfdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c740f7461c9f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05986ff077deacb2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c519e164eb89ffab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "381a46a6b937cc80",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1a0feb35a8ca06fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ef75f59c95997a11",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ae23d5da9f187dda",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f74fc186bef0e309",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "source/content/index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ab903f9559b77a2b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "source/content/index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "85f6621dac63a7f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "source/content/index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04c740f7461c9f9b",
+  "lastOpenFiles": [
+    "source/content/Novels/1984.md",
+    "source/content/Novels/index.md",
+    "source/content/index.md",
+    "README.md",
+    "LICENSE",
+    "source/quartz/i18n/locales/de-DE.ts",
+    "source/quartz/i18n/locales/ar-SA.ts",
+    "source/quartz/i18n/locales/it-IT.ts",
+    "source/quartz/i18n/locales/pl-PL.ts",
+    "source/quartz/i18n/locales/uk-UA.ts",
+    "source/quartz/i18n/locales/ru-RU.ts",
+    "source/quartz/i18n/locales/ja-JP.ts",
+    "source/quartz/i18n/locales/en-US.ts",
+    "source/quartz/i18n/locales/es-ES.ts",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/icon.png",
+    "source/docs/tags/component.md",
+    "source/docs/tags/plugin.md",
+    "source/docs/features/upcoming features.md",
+    "source/docs/features/RSS Feed.md",
+    "source/docs/features/recent notes.md",
+    "source/docs/features/wikilinks.md",
+    "source/docs/features/OxHugo compatibility.md",
+    "source/docs/features/Docker Support.md",
+    "source/docs/features/Mermaid diagrams.md",
+    "source/docs/features/table of contents.md",
+    "source/docs/features/popover previews.md",
+    "source/docs/features/index.md",
+    "source/docs/features/syntax highlighting.md",
+    "source/docs/features/Roam Research compatibility.md",
+    "source/docs/features/Obsidian compatibility.md",
+    "source/docs/features/darkmode.md",
+    "source/docs/features/comments.md",
+    "source/docs/features/breadcrumbs.md",
+    "source/docs/features/SPA Routing.md",
+    "source/docs/features/full-text search.md",
+    "source/docs/features/callouts.md",
+    "source/docs/features/graph view.md",
+    "source/docs/images/giscus-discussion.png",
+    "source/docs/images/github-quick-setup.png",
+    "source/docs/images/dns records.png",
+    "source/docs/images/giscus-results.png",
+    "source/docs/images/giscus-repo.png",
+    "source/docs/images/quartz-layout-mobile.png",
+    "source/docs/images/quartz-layout-desktop.png",
+    "source/docs/images/giscus-example.png"
+  ]
+}
