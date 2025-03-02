@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Novels/Novels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Novels"
             }
           }
         ]
@@ -155,9 +155,10 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
-    "source/content/Novels/1984.md",
     "source/content/Novels/index.md",
+    "source/content/Novels/Novels.md",
     "source/content/index.md",
+    "source/content/Novels/1984.md",
     "README.md",
     "LICENSE",
     "source/quartz/i18n/locales/de-DE.ts",
@@ -192,7 +193,6 @@
     "source/docs/features/SPA Routing.md",
     "source/docs/features/full-text search.md",
     "source/docs/features/callouts.md",
-    "source/docs/features/graph view.md",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/github-quick-setup.png",
     "source/docs/images/dns records.png",
