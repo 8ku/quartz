@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Essays/千面女神.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "千面女神"
             }
           }
         ]
@@ -155,22 +155,24 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
-    "source/content/Essays/Index.md",
+    "README.md",
+    "source/README.md",
+    "source/content/Essays/千面女神.md",
+    "source/content/Novels/1984.md",
+    "source/content/Essays/美国生活中的反智主义.md",
+    "source/content/Essays/沉默的大多数.md",
+    "source/content/Essays/一只特立独行的猪.md",
     "source/content/index.md",
+    "source/content/Essays/Index.md",
     "Essays.md",
     "source/content/Novels/Novels.md",
     "source/content/Essays/阅读是砍向我们内心冰封大海的斧头.md",
-    "source/content/Essays/沉默的大多数.md",
     "source/content/Essays/The greatest salesman in the World.md",
-    "source/content/Essays/美国生活中的反智主义.md",
     "source/content/Essays/另类事实：知识及其敌人.md",
     "source/content/Essays/论自愿为奴.md",
     "source/content/Essays/身价四亿的鲨鱼.md",
-    "source/content/Essays/一只特立独行的猪.md",
     "source/content/Essays",
-    "source/content/Novels/1984.md",
     "source/content/Novels/index.md",
-    "README.md",
     "LICENSE",
     "source/quartz/i18n/locales/de-DE.ts",
     "source/quartz/i18n/locales/ar-SA.ts",
@@ -191,8 +193,6 @@
     "source/docs/features/OxHugo compatibility.md",
     "source/docs/features/Docker Support.md",
     "source/docs/features/Mermaid diagrams.md",
-    "source/docs/features/table of contents.md",
-    "source/docs/features/popover previews.md",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/github-quick-setup.png",
     "source/docs/images/dns records.png",
