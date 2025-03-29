@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/千面女神.md",
+                "file": "source/content/Essays/谣言-世界最古老的媒介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "千面女神"
+              "title": "谣言-世界最古老的媒介"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/index.md",
+            "file": "source/content/Essays/谣言-世界最古老的媒介.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,9 +155,10 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
+    "source/content/Essays/千面女神.md",
+    "source/content/Essays/谣言-世界最古老的媒介.md",
     "README.md",
     "source/README.md",
-    "source/content/Essays/千面女神.md",
     "source/content/Novels/1984.md",
     "source/content/Essays/美国生活中的反智主义.md",
     "source/content/Essays/沉默的大多数.md",
@@ -192,7 +193,6 @@
     "source/docs/features/wikilinks.md",
     "source/docs/features/OxHugo compatibility.md",
     "source/docs/features/Docker Support.md",
-    "source/docs/features/Mermaid diagrams.md",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/github-quick-setup.png",
     "source/docs/images/dns records.png",
