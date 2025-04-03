@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/谣言-世界最古老的媒介/index.md",
+                "file": "source/content/Essays/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -166,8 +166,10 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
-    "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
     "source/content/Essays/谣言-世界最古老的媒介/index.md",
+    "source/content/Novels/index.md",
+    "source/content/Essays/index.md",
+    "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
     "source/content/Essays/谣言-世界最古老的媒介/1. 谣言-世界最古老的媒介.md",
     "source/content/Essays/谣言-世界最古老的媒介/2. 谣言传播的原因和根源.md",
     "source/content/Essays/谣言-世界最古老的媒介/7.  反谣言.md",
@@ -204,8 +206,6 @@
     "source/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
     "source/node_modules/rehype-katex/node_modules/@types/unist/README.md",
     "source/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
-    "source/node_modules/@clack/prompts/node_modules/is-unicode-supported/readme.md",
-    "source/node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
     "source/node_modules/cli-spinner/img/spinner.gif",
     "source/node_modules/psl/browserstack-logo.svg",
     "source/quartz/static/og-image.png",
