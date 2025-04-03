@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/谣言-世界最古老的媒介/Index.md",
+                "file": "source/content/Essays/谣言-世界最古老的媒介/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "index"
             }
           }
         ]
@@ -167,7 +167,7 @@
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
     "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
-    "source/content/Essays/谣言-世界最古老的媒介/Index.md",
+    "source/content/Essays/谣言-世界最古老的媒介/index.md",
     "source/content/Essays/谣言-世界最古老的媒介/1. 谣言-世界最古老的媒介.md",
     "source/content/Essays/谣言-世界最古老的媒介/2. 谣言传播的原因和根源.md",
     "source/content/Essays/谣言-世界最古老的媒介/7.  反谣言.md",
