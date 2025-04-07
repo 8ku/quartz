@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/偏见的本质/偏向性思维.md",
+                "file": "source/content/Essays/偏见的本质/2. 群体间差异.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "偏向性思维"
+              "title": "2. 群体间差异"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
+    "source/content/Essays/偏见的本质/1. 偏向性思维.md",
+    "source/content/Essays/偏见的本质/2. 群体间差异.md",
     "source/content/Essays/偏见的本质/index.md",
-    "source/content/Essays/偏见的本质/偏向性思维.md",
     "source/content/Essays/index.md",
     "source/content/Essays/偏见的本质",
     "source/content/Essays/谣言-世界最古老的媒介/index.md",
@@ -206,7 +207,6 @@
     "source/content/Essays/身价四亿的鲨鱼.md",
     "source/node_modules/parse-latin/node_modules/@types/unist/README.md",
     "source/node_modules/rehype-mathjax/node_modules/@types/unist/README.md",
-    "source/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
     "source/node_modules/cli-spinner/img/spinner.gif",
     "source/node_modules/psl/browserstack-logo.svg",
     "source/quartz/static/og-image.png",
