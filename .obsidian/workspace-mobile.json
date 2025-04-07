@@ -151,7 +151,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +161,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "04c740f7461c9f9b",
