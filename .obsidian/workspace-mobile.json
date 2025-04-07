@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/index.md",
+                "file": "source/content/Essays/偏见的本质/偏向性思维.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "偏向性思维"
             }
           }
         ]
@@ -166,9 +166,12 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
+    "source/content/Essays/偏见的本质/index.md",
+    "source/content/Essays/偏见的本质/偏向性思维.md",
+    "source/content/Essays/index.md",
+    "source/content/Essays/偏见的本质",
     "source/content/Essays/谣言-世界最古老的媒介/index.md",
     "source/content/Novels/index.md",
-    "source/content/Essays/index.md",
     "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
     "source/content/Essays/谣言-世界最古老的媒介/1. 谣言-世界最古老的媒介.md",
     "source/content/Essays/谣言-世界最古老的媒介/2. 谣言传播的原因和根源.md",
@@ -188,7 +191,6 @@
     "source/quartz/static/giscus/light.css",
     "source/quartz/static/giscus/dark.css",
     "source/quartz/static/giscus",
-    "source/quartz/components/OverflowList.tsx",
     "source/docs/layout-components.md",
     "source/docs/features/Citations.md",
     "source/docs/features/social images.md",
@@ -204,8 +206,6 @@
     "source/node_modules/parse-latin/node_modules/@types/unist/README.md",
     "source/node_modules/rehype-mathjax/node_modules/@types/unist/README.md",
     "source/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
-    "source/node_modules/rehype-katex/node_modules/@types/unist/README.md",
-    "source/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
     "source/node_modules/cli-spinner/img/spinner.gif",
     "source/node_modules/psl/browserstack-logo.svg",
     "source/quartz/static/og-image.png",
