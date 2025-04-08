@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Notebook
 ---
-1. [[Essays/|Essays]]
-2. [[Novels/|Novels]]
+1. [[Essays/|Nonfiction]]
+2. [[Novels/|Fiction]]
