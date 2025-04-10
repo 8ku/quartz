@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/偏见的本质/5. 偏见的习得.md",
+                "file": "source/content/Essays/偏见的本质/6. 偏见的动态.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 偏见的习得"
+              "title": "6. 偏见的动态"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/Essays/偏见的本质/5. 偏见的习得.md",
+            "file": "source/content/Essays/偏见的本质/6. 偏见的动态.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "source/content/Essays/偏见的本质/5. 偏见的习得.md",
+            "file": "source/content/Essays/偏见的本质/6. 偏见的动态.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -167,8 +167,9 @@
   },
   "active": "04c740f7461c9f9b",
   "lastOpenFiles": [
-    "source/content/Essays/偏见的本质/4. 社会文化因素.md",
     "source/content/Essays/偏见的本质/5. 偏见的习得.md",
+    "source/content/Essays/偏见的本质/6. 偏见的动态.md",
+    "source/content/Essays/偏见的本质/4. 社会文化因素.md",
     "source/content/Essays/偏见的本质/3. 对群体间差异的感知和思考.md",
     "source/content/Essays/偏见的本质/2. 群体间差异.md",
     "source/content/Essays/偏见的本质/1. 偏向性思维.md",
@@ -202,7 +203,6 @@
     "source/docs/layout-components.md",
     "source/docs/features/Citations.md",
     "source/docs/features/social images.md",
-    "source/docs/plugins/Citations.md",
     "source/docs/images/social-image-preview-dark.png",
     "source/docs/images/custom-social-image-preview-light.png",
     "source/docs/images/social-image-preview-light.png",
