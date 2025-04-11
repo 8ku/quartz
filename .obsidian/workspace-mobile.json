@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "source/content/Essays/偏见的本质/7. 性格结构.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "source/content/Essays/偏见的本质/7. 性格结构.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -165,10 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04c740f7461c9f9b",
+  "active": "c519e164eb89ffab",
   "lastOpenFiles": [
-    "source/content/Essays/偏见的本质/6. 偏见的动态.md",
     "source/content/Essays/偏见的本质/7. 性格结构.md",
+    "source/content/Essays/偏见的本质/8. 缓解群体间的紧张态势.md",
+    "source/content/Essays/偏见的本质/6. 偏见的动态.md",
     "source/content/Essays/偏见的本质/4. 社会文化因素.md",
     "source/content/Essays/偏见的本质/5. 偏见的习得.md",
     "source/content/Essays/偏见的本质/3. 对群体间差异的感知和思考.md",
@@ -202,7 +201,6 @@
     "source/quartz/static/giscus/dark.css",
     "source/quartz/static/giscus",
     "source/docs/layout-components.md",
-    "source/docs/features/Citations.md",
     "source/docs/images/social-image-preview-dark.png",
     "source/docs/images/custom-social-image-preview-light.png",
     "source/docs/images/social-image-preview-light.png",
