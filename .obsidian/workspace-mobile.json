@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#历史变迁",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ae23d5da9f187dda",
@@ -164,7 +164,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "04c740f7461c9f9b",
+  "active": "381a46a6b937cc80",
   "lastOpenFiles": [
     "source/content/Essays/谣言-世界最古老的媒介/1. 谣言-世界最古老的媒介.md",
     "source/content/Essays/文化战略/1. 蓝海战略.md",
