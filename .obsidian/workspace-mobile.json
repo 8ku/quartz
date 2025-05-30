@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#文化语境",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ae23d5da9f187dda",
@@ -164,7 +164,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7e0279d73a9945f9",
+  "active": "381a46a6b937cc80",
   "lastOpenFiles": [
     "source/content/Essays/index.md",
     "source/content/Essays/文化战略.md",
