@@ -1,5 +1,5 @@
 ---
-title: 品牌如何成为偶像 How Brands Become Icons
+title: 品牌如何成为偶像
 ---
 
 ## How Brands Become Icons 
