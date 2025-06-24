@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/文化战略.md",
+                "file": "source/content/Essays/品牌如何成为偶像/2. 文化式品牌塑造的独特之处.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文化战略"
+              "title": "2. 文化式品牌塑造的独特之处"
             }
           }
         ]
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "source/content/Essays/文化战略.md",
+            "file": "source/content/Essays/品牌如何成为偶像/2. 文化式品牌塑造的独特之处.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,12 +166,17 @@
   },
   "active": "7e0279d73a9945f9",
   "lastOpenFiles": [
-    "source/content/Essays/index.md",
-    "source/content/Essays/文化战略.md",
-    "Untitled.canvas",
     "source/content/Essays/谣言-世界最古老的媒介/1. 谣言-世界最古老的媒介.md",
-    "source/content/Essays/文化战略/index.md",
+    "source/content/Essays/品牌如何成为偶像/2. 文化式品牌塑造的独特之处.md",
+    "source/content/Essays/品牌如何成为偶像/1. 什么是偶像品牌.md",
+    "source/content/Essays/千面女神.md",
+    "source/content/Essays/品牌如何成为偶像/index.md",
     "source/content/Essays/谣言-世界最古老的媒介/index.md",
+    "source/content/Essays/文化战略.md",
+    "source/content/Essays/品牌如何成为偶像",
+    "source/content/Essays/index.md",
+    "Untitled.canvas",
+    "source/content/Essays/文化战略/index.md",
     "source/content/Essays/偏见的本质/6. 偏见的动态.md",
     "source/content/Essays/文化战略",
     "source/content/Essays/偏见的本质/7. 性格结构.md",
@@ -190,10 +195,7 @@
     "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
     "source/content/Essays/谣言-世界最古老的媒介/2. 谣言传播的原因和根源.md",
     "source/content/Essays/谣言-世界最古老的媒介/7.  反谣言.md",
-    "source/content/Essays/千面女神.md",
     "source/content/Essays/谣言-世界最古老的媒介/6. 谣言的利用.md",
-    "source/content/Essays/谣言-世界最古老的媒介/4. 谣言的群体.md",
-    "source/content/Essays/谣言-世界最古老的媒介/5. 谣言的解释和作用.md",
     "source/quartz/i18n/locales/fi-FI.ts",
     "source/quartz/i18n/locales/th-TH.ts",
     "source/quartz/i18n/locales/zh-TW.ts",
@@ -201,7 +203,6 @@
     "source/quartz/i18n/locales/tr-TR.ts",
     "source/quartz/i18n/locales/lt-LT.ts",
     "source/quartz/static/giscus/light.css",
-    "source/quartz/static/giscus/dark.css",
     "source/docs/images/social-image-preview-dark.png",
     "source/docs/images/custom-social-image-preview-light.png",
     "source/docs/images/social-image-preview-light.png",
