@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Essays/The Writers Journey/1. The Archetypes.md",
+                "file": "source/content/Essays/The Writers Journey/3. The Stages of the Hero's Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Archetypes"
+              "title": "3. The Stages of the Hero's Journey"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "7e0279d73a9945f9",
   "lastOpenFiles": [
+    "source/content/Essays/The Writers Journey/1. The Archetypes.md",
     "source/content/Essays/The Writers Journey/3. The Stages of the Hero's Journey.md",
     "source/content/Essays/品牌如何成为偶像/2. 文化式品牌塑造的独特之处.md",
     "source/content/Essays/品牌如何成为偶像/index.md",
@@ -195,7 +196,6 @@
     "source/content/Essays/偏见的本质",
     "source/content/Essays/谣言-世界最古老的媒介/8. 结论.md",
     "source/content/Essays/谣言-世界最古老的媒介/2. 谣言传播的原因和根源.md",
-    "source/content/Essays/谣言-世界最古老的媒介/7.  反谣言.md",
     "source/quartz/i18n/locales/fi-FI.ts",
     "source/quartz/i18n/locales/th-TH.ts",
     "source/quartz/i18n/locales/zh-TW.ts",
