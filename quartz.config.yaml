@@ -3,6 +3,10 @@ configuration:
   pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
+  head:
+  - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
+  - <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
   enablePopovers: true
   analytics:
     provider: plausible
@@ -42,13 +46,16 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   # - source: "@quartz-community/fonts"
-  #   useThemeFonts: false
   #   enabled: true
   #   options:
   #     fontOrigin: googleFonts
-  #     body: ["Noto Serif", "Noto serif SC"]
-  #     header: ["Noto Serif", "Noto serif SC"]
-  #     code: ["JetBrains Mono", "monospace"]
+  #     body:
+  #       name: '"Noto Serif","Noto Serif SC"'
+  #       weights: [400, 600, 700]
+  #       includeItalic: true
+  #     header:
+  #       name: '"Noto Serif","Noto Serif SC"'
+  #       weights: [400, 700]
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
