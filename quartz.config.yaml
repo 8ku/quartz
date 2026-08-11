@@ -14,7 +14,7 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    cdnCaching: false
     typography:
       header: Noto Serif
       body: Noto Serif
@@ -41,6 +41,14 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  # - source: "@quartz-community/fonts"
+  #   useThemeFonts: false
+  #   enabled: true
+  #   options:
+  #     fontOrigin: googleFonts
+  #     body: ["Noto Serif", "Noto serif SC"]
+  #     header: ["Noto Serif", "Noto serif SC"]
+  #     code: ["JetBrains Mono", "monospace"]
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -79,6 +87,8 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
+    maxDepth: 4
+    collapseByDefault: true
     order: 50
     layout:
       position: right
@@ -113,7 +123,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: aura
+      theme: abecedarium
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -163,7 +173,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10

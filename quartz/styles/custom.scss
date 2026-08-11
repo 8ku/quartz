@@ -1,3 +1,175 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Force override the fonts
+
+* {
+    font-family: 'Noto Serif', 'Noto Serif SC' !important;
+}
+
+
+@font-face {
+    font-family: 'Noto Serif', 'Noto Serif SC' !important;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC&family=JetBrains+Mono&display=swap');
+}
+
+
+html[saved-theme="light"] body .page > div#quartz-body div.sidebar.left,
+html[saved-theme="light"] body .page > div#quartz-body div.sidebar.right {
+    background-color: var(--background-primary);
+    border-right-style: none;
+}
+
+html[saved-theme="light"] .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
+    background-color: transparent;
+}
+
+body {
+    --highlight-color: #84a59d;
+    --lightgray: #e5e5e5;
+    --gray: #b8b8b8;
+}
+
+p {
+    line-height: 1.8rem;
+    color: var(--text-normal);
+}
+
+body blockquote {
+    padding: 0.01em 0 0.01em 0.5em;
+}
+
+body hr {
+    border-top: 1px;
+}
+
+body ol > li,
+body ul > li {
+    line-height: 1.8rem;
+}
+
+body .table-container {
+    margin-bottom: 1.5rem;
+}
+
+// Left Area search button 
+.search>.search-button {
+    border: 1px var(--lightgray) solid;
+    height: 2rem;
+    cursor: pointer;
+    white-space: nowrap;
+    background-color: #0000;
+    border-radius: 4px;
+    align-items: center;
+    width: 100%;
+    padding: 0 1rem 0 0;
+    display: flex;
+}
+
+.search>.search-button>p {
+    color: var(--gray)
+}
+
+// search-input
+.search>.search-container>.search-space>:not(.ghost-text):not(.tag-suggestions){
+    margin-bottom: 2em;
+    background: var(--background-primary);
+    border-radius: 7px;
+    width: 100%;
+    box-shadow: 0 14px 50px #1b21301f, 0 10px 30px #1b213029;
+    padding: 0.8em;
+}
+// search-result
+.search > .search-container > .search-space > .search-layout {
+    background: var(--background-primary) ;
+    border-radius: 7px;
+    width: 100%;
+    margin-bottom: 2em;
+    box-shadow: 0 14px 50px #1b21301f, 0 10px 30px #1b213029;
+}
+
+.search >.search-container >.search-space >.search-layout .highlight {
+    background: color-mix(in srgb, var(--highlight-color) 60%, #fff0);
+    scroll-margin-top: 2rem;
+}
+
+.result-card h3 {
+  font-size: 1.1rem; // Adjust this value as needed
+}
+
+.explorer {
+    ul.explorer-ul li {
+        margin: 0.2rem;
+    }
+}
+
+
+// Center Area
+.breadcrumb-container .breadcrumb-element > a {
+    color: var(--text-muted);
+}
+
+.article-title,
+.section-title, h1, h2, h3, h4, h5, h6, body{
+  font-family: 'Noto Serif', 'Noto Serif SC' !important;
+}
+
+.article-title {
+    padding-top:1rem;
+}
+
+.text-highlight {
+background: none !important;
+box-shadow: 
+    inset 0 -0.5em 0 0 rgba(255, 235, 59, 0.6) !important;
+// Keep text readable
+color: inherit !important;
+padding: 0.1em 0.2em !important;
+border-radius: 0.1em !important;
+}
+
+// Note
+.callout[data-callout] {
+    --color: #448aff;
+    --border:#448aff44;
+    --bg: #448aff10;
+}
+
+.callout {
+    border: 1px solid var(--border);
+    background-color: var(--bg);
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 0 1rem;
+    overflow-y: hidden;
+}
+
+.callout-title {
+    color: var(--color);
+    --icon-size: 18px;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 1rem 0;
+    display: flex;
+}
+
+// Right Area
+.toc {
+  .toc-content {
+    padding-left: 0;
+    list-style: none;
+
+    // This automatically calculates indentation based on depth
+    [class*="depth-"] {
+      padding-left: calc(0.8rem * (var(--depth, 0) - 0));
+    }
+
+    .depth-0 { --depth: 0; }
+    .depth-1 { --depth: 1; }
+    .depth-2 { --depth: 2; }
+    .depth-3 { --depth: 3; }
+  }
+}
+
+
+
+
