@@ -41,17 +41,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  # - source: "@quartz-community/fonts"
-  #   enabled: true
-  #   options:
-  #     fontOrigin: googleFonts
-  #     body:
-  #       name: '"Noto Serif","Noto Serif SC"'
-  #       weights: [400, 600, 700]
-  #       includeItalic: true
-  #     header:
-  #       name: '"Noto Serif","Noto Serif SC"'
-  #       weights: [400, 700]
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

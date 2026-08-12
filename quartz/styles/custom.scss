@@ -8,11 +8,6 @@
 }
 
 
-// @font-face {
-//     font-family: 'Noto Serif', 'Noto Serif SC' !important;
-// }
-
-
 html[saved-theme="light"] body .page > div#quartz-body div.sidebar.left,
 html[saved-theme="light"] body .page > div#quartz-body div.sidebar.right {
     background-color: var(--background-primary);
@@ -33,6 +28,8 @@ p {
     line-height: 1.8rem;
     color: var(--text-normal);
     font-family: 'Noto Serif', 'Noto Serif SC' !important;
+    text-wrap: pretty;
+    word-break: break-word;
 }
 
 body blockquote {
