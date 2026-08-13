@@ -30,6 +30,8 @@ p {
     font-family: 'Noto Serif', 'Noto Serif SC' !important;
     text-wrap: pretty;
     word-break: break-word;
+    text-autospace: normal;
+    letter-spacing: 1px;
 }
 
 body blockquote {
