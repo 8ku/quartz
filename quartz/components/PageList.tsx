@@ -72,7 +72,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         return (
           <li class="section-li">
             <div class="section">
-              <p class="meta">{page.dates && <Date date={getDate(page)!} locale={cfg.locale} />}</p>
               <div class="desc">
                 <h3>
                   <a
@@ -95,6 +94,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   </li>
                 ))}
               </ul>
+              <p class="meta">{page.dates && <Date date={getDate(page)!} locale={cfg.locale} />}</p>
             </div>
           </li>
         )
@@ -102,6 +102,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     </ul>
   )
 }
+
 
 PageList.css = `
 .section h3 {

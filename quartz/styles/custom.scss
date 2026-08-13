@@ -150,6 +150,26 @@ border-radius: 0.1em !important;
     display: flex;
 }
 
+
+li.section-li > .section {
+    align-items: center;
+    grid-template-columns: 3fr 1fr fit-content(8em);
+    grid-auto-flow: column;
+}
+
+li.section-li > .section > .meta {
+    margin: 0 0 0 12px;
+    align-self: center;
+}
+
+li.section-li > .section > .desc {
+    grid-column: 1;
+}
+
+li.section-li > .section > .tags {
+     grid-column: 2;
+}
+
 // Right Area
 .toc {
   .toc-content {
