@@ -186,35 +186,7 @@ li.section-li > .section > .tags {
     .depth-0 { --depth: 0; }
     .depth-1 { --depth: 1; }
     .depth-2 { --depth: 2; }
-    .depth-3 { --depth: 3; }
-
-// 1. Hide h3 and below (depth-1, depth-2, etc.) by default
-  li:not(.depth-0) {
-    max-height: 0;
-    opacity: 0;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    transition: max-height 0.25s ease-out, opacity 0.2s ease-in;
-  }
-
-  // 2. Unfold the h3+ items immediately following an active h2 (.depth-0),
-  //    OR when any h3+ item inside that same h2 group is currently in-view
-  li.depth-0:has(> a.in-view) ~ li:not(.depth-0),
-  li.depth-0:has(~ li:not(.depth-0) > a.in-view) ~ li:not(.depth-0) {
-    max-height: 3rem; // Enough height for a 1-2 line heading
-    opacity: 1;
-    margin-top: 0.25rem;
-  }
-
-  // 3. Re-collapse h3+ items belonging to the *next* h2 section down the page
-  li.depth-0:has(> a.in-view) ~ li.depth-0 ~ li:not(.depth-0),
-  li.depth-0:has(~ li:not(.depth-0) > a.in-view) ~ li.depth-0 ~ li:not(.depth-0) {
-    max-height: 0;
-    opacity: 0;
-    margin: 0;
-  }
-   
+    .depth-3 { --depth: 3; }   
   }
 }
 
