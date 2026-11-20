@@ -190,6 +190,24 @@ li.section-li > .section > .tags {
   }
 }
 
+.toc-content {
+  // Target nested lists inside the TOC
+  ul ul {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.25s ease-out, opacity 0.2s ease-in;
+  }
+
+  // Unfold when the parent link is in view OR any child inside the nested list is in view
+  li:has(> a.in-view) > ul,
+  li:has(ul a.in-view) > ul {
+    max-height: 500px; // Needs to be larger than your tallest sub-list
+    opacity: 1;
+    transition: max-height 0.35s ease-in, opacity 0.25s ease-in;
+  }
+}
+
 
 
 
